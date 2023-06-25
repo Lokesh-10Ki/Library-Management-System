@@ -35,16 +35,6 @@ To run this application locally, follow these steps:
 
 The application is deployed on AWS (Amazon Web Services) and can be accessed at [http://13.49.228.47:3000/](http://13.49.228.47:3000/).
 
-## Contributing
-
-Contributions are welcome! If you would like to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch: `git checkout -b my-new-feature`
-3. Make your changes and commit them: `git commit -am 'Add some feature'`
-4. Push your branch: `git push origin my-new-feature`
-5. Submit a pull request.
-
 ## Contact
 
 If you have any questions, suggestions, or feedback, please feel free to contact the project maintainer at [48lokesh@gmail.com](mailto:48lokesh@gmail.com.com).
