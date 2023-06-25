@@ -7,6 +7,8 @@ Welcome to the Library Management System! This web application allows users to s
 You can access the live demo of the application at :
 # [http://13.49.228.47:3000/](http://13.49.228.47:3000/)
 
+**Note**: If you are from the company Dev Rev and looking for the correct link for the AWS deployment, please refer to the above link, as I have missed specifying, the port 3000 in gform.
+
 ## Features
 
 - **Book Search**: Users can search for books by title, author, or any other relevant keyword.
